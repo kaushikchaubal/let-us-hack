@@ -11,6 +11,10 @@ body {
     background-color: #fff;
 }
 
+section {
+  height: 100%;
+}
+
 html {
     width: 100%;
     height: 100%;
@@ -467,11 +471,11 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 .company-social {
 	margin-left: 0;
 	padding-left: 0;
-	margin-top: 10px;
+	margin-top: 20px;
 }
 
 .company-social {
-	text-align: left;
+	text-align: center;
 }
 
 .company-social li{
